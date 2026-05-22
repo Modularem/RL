@@ -3,6 +3,7 @@
 ## Tour
 
 ### Descripción
+tour.description = CASA RL
 
 ### Título
 tour.name = Sin Título 2
