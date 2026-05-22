@@ -6,7 +6,7 @@
 tour.description = CASA RL
 
 ### Título
-tour.name = Sin Título 2
+tour.name = Recorrido Casa RL
 
 ## Skin
 
