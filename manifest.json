@@ -37,9 +37,9 @@
   }
  ],
  "name": "Recorrido Casa RL",
+ "background_color": "#FFFFFF",
  "description": "CASA RL",
  "display": "fullscreen",
- "background_color": "#FFFFFF",
- "start_url": "index.htm",
- "theme_color": "#FFFFFF"
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm"
 }
